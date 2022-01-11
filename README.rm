@@ -1,0 +1,10 @@
+http://localhost:8080/api/usuarios?q=hola&nombre=criss
+
+
+{
+    "nombre":"cccccccccc",
+    "edad": 32,
+    "correo":"test1@rrr.com",
+    "password":"123456",
+    "rol":"USER_ROLE"
+}
